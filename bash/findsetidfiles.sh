@@ -31,4 +31,4 @@ echo ""
 
 echo "10 largest files"
 echo "============="
-find  
+find / ls | wc -l
